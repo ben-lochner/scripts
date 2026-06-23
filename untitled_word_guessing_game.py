@@ -7,8 +7,6 @@ word_pull = list(word_gen)
 word_pool = [word for word in word_gen if len(word) == 6]
 word_pick = random.choice(word_pool)
 
-print(word_pick)
-
 guess_list = []
 
 # i read all of these quotes in baldi's voice while actively typing them
