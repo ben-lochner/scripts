@@ -2,7 +2,6 @@ import random
 
 number = random.randint(1, 300)
 guess_count = []
-print(number)
 print("I've picked a random number from 1 to 300, take a guess!")
 while True:
     guess = int(input("Take a swing at it! (Input an integer!) "))
