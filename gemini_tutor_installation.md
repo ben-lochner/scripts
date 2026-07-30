@@ -14,9 +14,9 @@ Google AI Studio: https://aistudio.google.com/welcome
 
 4. Set up your API key to connect with Python before running the program.
 Input one of the following commands (based on your device/operating system) into your system's terminal:
-- For Mac/Linux: export GEMINI_API_KEY="your_api_key_here"
-- For Windows (via Command Prompt): set GEMINI_API_KEY="your_api_key_here"
-- For Windows (via PowerShell): $env:GEMINI_API_KEY="your_api_key_here"
+- For Mac/Linux: export GEMINI_API_KEY=your_api_key_here
+- For Windows (via Command Prompt): set GEMINI_API_KEY=your_api_key_here
+- For Windows (via PowerShell): $env:GEMINI_API_KEY=your_api_key_here
 
 5. Download the raw script file from GitHub. You can navigate to the GitHub script view, click the Raw button to view the raw Python code, and save it locally as socratic_tutor_ai.py.
 
