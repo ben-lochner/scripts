@@ -22,6 +22,6 @@ Input one of the following commands (based on your device/operating system) into
 Open the file viewer before clicking the three dots in the top right corner and clicking the "Download" button from the drop-down menu.
 Program download/file view: https://github.com/ben-lochner/scripts/blob/main/socratic_tutor_ai.py
 
-6. Run the program using Python via your system's terminal using the following command: python socratic_bot.py
+6. Run the program using Python via your system's terminal using the following command: python socratic_tutor_ai.py
 
 7. Have fun, run wild!
