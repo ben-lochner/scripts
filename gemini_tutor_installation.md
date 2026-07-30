@@ -18,9 +18,7 @@ Input one of the following commands (based on your device/operating system) into
 - For Windows (via Command Prompt): set GEMINI_API_KEY="your_api_key_here"
 - For Windows (via PowerShell): $env:GEMINI_API_KEY="your_api_key_here"
 
-5. Install the program itself via my GitHub tree page or through the link below.
-Open the file viewer before clicking the three dots in the top right corner and clicking the "Download" button from the drop-down menu.
-Program download/file view: https://github.com/ben-lochner/scripts/blob/main/socratic_tutor_ai.py
+5. Download the raw script file from GitHub. You can navigate to the GitHub script view, click the Raw button to view the raw Python code, and save it locally as socratic_tutor_ai.py.
 
 6. Run the program using Python via your system's terminal using the following command: python socratic_tutor_ai.py
 
